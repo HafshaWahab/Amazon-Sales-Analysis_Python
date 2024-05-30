@@ -4,7 +4,7 @@
 
 ## About the dataset
 
-As a data analyst, I am given to unlock Amazon’s sales potential through rigorous analysis. We aim to extract actionable insights that propel revenue growth and elevate customer satisfaction.
+As a data analyst, I am given to unlock Amazon’s sales potential through rigorous analysis. The dataset contains 4 months of data records. We aim to extract actionable insights that propel revenue growth and elevate customer satisfaction. 
 
 ### Dataset Overview:
 
