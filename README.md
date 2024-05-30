@@ -50,7 +50,65 @@ As a data analyst, I am given to unlock Amazon’s sales potential through rigor
 **- Insights:** Finally, drawing meaningful insights.
 
 
+## Insights:
 
+**1)	Product Size:** The M-sized clothes have been purchased the most. The top 3 available sizes in the inventory are **M, L and XL**.
+
+**2)	Courier Status:** As per Courier status, the maximum no. of the products has been **shipped and delivered to the buyer**.
+
+**3)	Product category analysis:** **T-shirts and Shirts** are the highest demand categories of Products.
+50280 orders have been placed for T-shirts, followed by 49858 orders have been placed for Shirts.
+
+**4)	B2B:** 99.3% are retailers and 0.7% are buyers
+
+**5)	Orders Fulfillment:** Amazon fulfils 69.56% of orders and the merchant fulfils 30.44%.
+
+**6)	Product availability:** T-Shirts and Shirts are not available in Free size.
+
+**7)	Top 10 highest revenue generating states:** **Maharashtra, Karnataka, Telangana** are the top 3 highest revenue generating States.
+
+**8)	Top 10 states placing maximum no. of orders:** **Maharashtra, Karnataka and Tamil Nadu** are the top 3 states placing maximum no. of orders.
+
+**9)	 Top 10 Cities generating maximum revenue and placing maximum orders:** **Bengaluru, Hyderabad and Mumbai** are the top 3 cities generating maximum revenue and placing maximum no. of orders.
+
+**10)	  Revenue generated from each product category:** T-Shirt and Shirt have generated **Rs 3,91,97,809 and Rs 2,12,89,304** revenues respectively which are the highest in the product category.
+
+**11)	 Different Sales Channels:** Amazon.in is the most preferred channel as compared to non-Amazon channels.
+
+**12)	 Service type:** 69% of orders were expedited and 31% were of Standard type.
+
+**13)	 Sales trend:** The Maximum number of orders was placed in **April - May 2022** and the least number of orders were in March.
+
+
+## Business Recommendations to Client:
+
+Based on the insights from the Amazon sales data analysis, here are five strategic recommendations to the client to boost sales:
+
+1. ***Size-Centric Marketing***:
+
+   - **Target M-Sized Products**: Since M-sized clothes are the most popular, focus marketing efforts on promoting M-sized T-shirts and shirts. Highlight their versatility, comfort, and style.
+
+2. ***Optimize Fulfillment Channels***:
+
+   - **Leverage Amazon Fulfillment**: Given that Amazon fulfils the majority of orders, prioritize this channel. Streamline inventory management, ensure timely restocking, and maintain high service levels.
+
+    - **Merchant Fulfillment Enhancement**: For orders fulfilled by merchants, improve delivery speed and reliability. Consider incentives for faster processing and shipping.
+
+3. ***Category-Specific Promotions***:
+
+   - **T-Shirt and Shirt Bonanza**: Run targeted promotions for T-shirts and shirts. Bundle deals, discounts, or exclusive designs can entice buyers. Highlight their popularity and quality.
+
+4. ***Geographic Targeting***:
+
+    - **Focus on Revenue Hotspots**: Concentrate marketing efforts in revenue-rich states like Maharashtra, Karnataka, and Telangana. Tailor campaigns to local preferences and cultural nuances.
+
+    - **City-Specific Campaigns**: Customize promotions for top cities (e.g., Bengaluru, Hyderabad, Mumbai). Consider localized events, partnerships, or influencer collaborations.
+
+5. ***Seasonal Sales Boost***:
+ 
+   - **Spring Surge**: Capitalize on the peak sales trend observed in April-May 2022. Plan special promotions, limited-time offers, or new product launches during this period.
+
+    - **March Revival**: Address the dip in March orders. Launch a March Madness campaign—exclusive discounts, early access, or loyalty rewards—to re-energize sales.
 
 
 
